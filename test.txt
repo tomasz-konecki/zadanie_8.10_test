@@ -1,4 +1,5 @@
 To jest linia wpisana w edytorze VIM na branchu 'master'
 
-
 To jest linia wpisana na branchu 'testing'
+
+To jest kolejna linia wpisana na branchu 'testing'
