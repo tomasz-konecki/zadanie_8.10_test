@@ -1,1 +1,3 @@
 To jest linia wpisana w edytorze VIM na branchu 'master'
+
+To jest druga linia wpisana na branchu 'master'
